@@ -1,1 +1,1 @@
-[KyberFan](www.kyberfan.ml)
+[KyberFan](http://www.kyberfan.ml)
