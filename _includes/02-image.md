@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![this is a random image](https://kyberswap.com/app/images/swap_mobile.png)
